@@ -1,11 +1,4 @@
-# WEEK-8-SQ009-ANDROID
-
-# LOCATION - GROUP WORK (2) 
-
- 
- 
-
-## Problem Description 
+## Description 
 
 Track your partner(s).  
 
