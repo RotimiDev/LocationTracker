@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="8dp"
+    android:orientation="horizontal">
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/type_chip"
+        app:mcv_textColor="@color/white"
+        app:mcv_chipText="Pikachu"
+        app:chipBackgroundColor="#46000000"
+        app:mcv_backgroundColor="@color/design_default_color_primary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    </com.google.android.material.chip.Chip>
+
+</LinearLayout>

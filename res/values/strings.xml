@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TrackPartner</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="open_map_activity">Open Map Activity</string>
+    <string name="track_partner">TrackPartner</string>
+    <string name="track_a_partner">Realtime tracking app</string>
+
+        <string name="pokemon_name">Pokemon Name</string>
+        <string name="first_implementation">First Implementation</string>
+        <string name="second_implementation">Second Implementation</string>
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="enter_limit">enter limit</string>
+        <string name="pokemon">Pokemon</string>
+        <string name="pokemon_name2">Pokemon Name</string>
+        <string name="weight">Weight</string>
+        <string name="type">Type</string>
+        <string name="stats">Stats</string>
+        <string name="height">Height</string>
+        <string name="abilities">Abilities</string>
+        <string name="title_activity_second_implementation">SecondImplementationActivity</string>
+        <!--
+        This string is used for square devices and overridden by hello_world in
+        values-round/strings.xml for round devices.
+        -->
+        <string name="hello_world">Hello Square World!</string>
+        <string name="upload">Upload</string>
+        <string name="search">Search</string>
+        <string name="enter_query_number">Enter Query Number</string>
+        <string name="pokemon_list">Pokemon List</string>
+
+</resources>
